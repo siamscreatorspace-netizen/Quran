@@ -1,0 +1,6 @@
+{
+  "name": "Quran",
+  "description": "IlmVerse - An educational quiz and Islamic learning platform featuring Quran audio, authentic Hadith, world knowledge, and interactive games in Bengali and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
